@@ -9,7 +9,7 @@ public class RectangleOopMain {
 
         // 계산은 필요한 시점(main)에서 호출해 계산
         //rectangle.area처럼 필드로 저장하면, 값 변경 시 오류 가능성 있음
-        
+
         int area = rectangle.calculateArea();
         System.out.println("넓이: " + area);
 
