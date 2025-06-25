@@ -11,7 +11,6 @@ public class MusicPlayerMain1 {
         //볼륨 증가
         volume++;
         System.out.println("음악 플레이어 볼륨:" + volume);
-
         //볼륨 증가
         volume++;
         System.out.println("음악 플레이어 볼륨:" + volume);
