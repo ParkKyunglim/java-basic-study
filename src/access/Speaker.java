@@ -1,7 +1,7 @@
 package access;
 
 public class Speaker {
-    int volume;
+    private int volume; // private 변경 - 내부에서만 접근 가능
 
     // 생성자로 초기 음량 지정
     Speaker(int volume) {
