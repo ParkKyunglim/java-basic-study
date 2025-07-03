@@ -1,4 +1,4 @@
-package access.b;
+package access;
 
 public class BankAccount {
 
